@@ -1,3 +1,5 @@
+Hallo, ich bin eine Gabel
+
 # Informatik Grundlagen - Bachelor (Maschinenbau)
 
 Dieses Repository enthält strukturierte Vorlesungsinhalte für das Modul **Informatik Grundlagen** im Maschinenbaustudium (1. und 2. Semester Bachelor).
